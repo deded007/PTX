@@ -4,9 +4,6 @@
 
 為加速開發者能快速使用公共運輸資訊整合流通服務平台(PTX)開放之旅運資料服務，將提供不同程式語言的範例程式碼提供開發者下載，於開發環境開啟後即可依範例程式碼自行擴充，降低學習曲線。
 
-- 如何使用HMAC 機制:
-<iframe width="854" height="480" src="https://www.youtube.com/embed/m6mjfnvfeZE" frameborder="0" gesture="media" allowfullscreen></iframe>
-
 
 除PTX所提供之java、javascript及.NET範例程式碼外，PTX會員SHI HAO WANG及Benyi也提供不同種程式語言之範例程式碼供使用者作參考。
 
